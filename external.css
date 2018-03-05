@@ -1,0 +1,35 @@
+#will {
+  color:#1a2930;
+  background-color:#f7ce3e;
+  font-family: courier;
+  
+}
+#nav {
+  background-color:white;
+}
+
+#pod1 {
+  font-family:courier;
+  font-size: large;
+  background-color :#f7ce3e;
+  color:#1a2930;
+}
+
+#pod2 {
+  font-size: x-large;
+  background-color:#1a2930;
+  color:#c5c1c0;
+}
+
+#pod3 {
+  background-color:#c5c1c0;
+}
+
+#pod4 {
+  background-color:#c5c1c0;
+}
+
+footer {
+  background-color: #1a2930;
+  color:#c5c1c0;
+}
