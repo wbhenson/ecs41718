@@ -2,8 +2,14 @@
   color:#1a2930;
   background-color:#f7ce3e;
   font-family: courier;
-  
 }
+
+#b1 {
+  background-color: #1a2930;
+  color:#c5c1c0;
+  border-radius: 12px;
+}
+
 #nav {
   background-color:white;
 }
@@ -23,14 +29,28 @@
 
 #pod3 {
   background-color:#c5c1c0;
+  font-family: courier;
 }
 
 #pod4 {
   background-color:#c5c1c0;
+  font-family: courier;
 }
 
-#b1 {
-  background-color:#1a2930;
+table, th, td {
+  border: 1px solid black
+}
+        
+th {
+  background-color: #f7ce3e;
+  color:#1a2930;
+}
+        
+td {
+  background-color:#555f67;
+  color:White;
+}
+     
 
 footer {
   background-color: #1a2930;
